@@ -64,6 +64,13 @@
 			"copyright": ""
 		},
 		{
+                        "name": "Greenny",
+			"author": "DOLLY",
+			"url": "https://raw.githubusercontent.com/dollyimpressions/GraceIcons-Theme-Project/master/Greenny.png",
+			"dimensions": "3200 x 2560",
+			"copyright": ""
+		},
+		{
 			"name": "Harmony",
 			"author": "DOLLY",
 			"url": "https://raw.githubusercontent.com/dollyimpressions/GraceIcons-Theme-Project/master/Harmony.png",
@@ -92,10 +99,17 @@
 			"copyright": ""
 		},
 		{
-			"name": "",
+			"name": "To Live For Jesus Is Gain",
 			"author": "DOLLY",
-			"url": "",
-			"dimensions": "1440 x 2560",
+			"url": "https://raw.githubusercontent.com/dollyimpressions/GraceIcons-Theme-Project/master/To%20Live%20For%20Jesus%20Is%20Gain.png",
+			"dimensions": "3200 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "Tribal",
+			"author": "DOLLY",
+			"url": "https://raw.githubusercontent.com/dollyimpressions/GraceIcons-Theme-Project/master/Tribal.png",
+			"dimensions": "3200 x 2560",
 			"copyright": ""
 		},
 		{
