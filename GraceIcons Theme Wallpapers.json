@@ -1,6 +1,27 @@
 {
 	"wallpapers": [
 		{
+			"name": "Blue Lions Night",
+			"author": "DOLLY",
+			"url": "https://raw.githubusercontent.com/dollyimpressions/GraceIcons-Theme-Project/master/Blue%20Lions%20Night.jpg",
+			"dimensions": "2000 x 1813",
+			"copyright": ""
+		},
+		{
+			"name": "Colly Night",
+			"author": "DOLLY",
+			"url": "https://raw.githubusercontent.com/dollyimpressions/GraceIcons-Theme-Project/master/Colly%20Night.png",
+			"dimensions": "1440 x 2560",
+			"copyright": ""
+		},
+		{
+			"name": "Colly",
+			"author": "DOLLY",
+			"url": "https://raw.githubusercontent.com/dollyimpressions/GraceIcons-Theme-Project/master/Colly.png",
+			"dimensions": "3200 x 2560",
+			"copyright": ""
+		},
+		{
 			"name": "Creamy",
 			"author": "DOLLY",
 			"url": "https://raw.githubusercontent.com/dollyimpressions/GraceIcons-Theme-Project/master/Creamy.png",
